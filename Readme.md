@@ -13,5 +13,5 @@
 ...to find the sentiment score from twitter sample stream and the result is stored in a file every 10 minutes
 
 ###Credit:
-[FNielsen/afinn](https://github.com/fnielsen/afinn)
-[Indonesian language added](https://github.com/dataP2I/afinn)
+* [FNielsen/afinn](https://github.com/fnielsen/afinn)
+* [Indonesian language added](https://github.com/dataP2I/afinn)
