@@ -1,4 +1,4 @@
-# dataP2I - 2017 Big Computing
+# Indonesian Sentiment Lexicon
 
 ###File list:
 1. gtranslate_afinn.py
